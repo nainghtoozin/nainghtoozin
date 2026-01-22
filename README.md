@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Mg Naing Htoo Zin
 
-<!--
-**nainghtoozin/nainghtoozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior PHP Web Developer (Laravel)  
+📍 Yangon, Myanmar  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- I am a Junior Web Developer focusing on PHP and Laravel
+- I enjoy building real-world projects and learning new technologies
+- Currently looking for **Intern / Junior PHP Developer** opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- PHP, Laravel
+- MySQL
+- HTML, CSS, JavaScript
+- Bootstrap
+- Git & GitHub
+
+### 📂 Projects
+- **Clinic Management System** (Laravel)  
+
+- **E-commerce Website** (Laravel)  
+- **Social App** (Laravel)  
+- **Bookshop Management System** (PHP)
+
+### 🔗 Links
+- GitHub: https://github.com/nainghtoozin  
+- Portfolio: https://nainghtoozin.github.io/protfolio/
+
+📫 Contact: nainghtoo09798@gmail.com
